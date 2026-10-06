@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+CREDENTIALS.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+uploads/
+
+# Node / frontend
+node_modules/
+dist/
+.tanstack/
+.wrangler/
+
+# Claude / OS / editor
+.claude/
+.DS_Store
+.idea/
+.vscode/
